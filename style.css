@@ -1,1 +1,21 @@
-h1{color: red;}
+
+.container{margin-bottom: 100px;}
+.button-now{margin-top:10px;background-image:linear-gradient(to bottom, #dd1666 0%, rgb(221, 22, 102) 100%);color: white;border-radius: 10px;border: #dd1666;padding: 5px 10px;}
+.row{padding: 25px;;}
+
+.orange-bg{background-color: #fceae8;border-radius: 10px}
+
+.cat1{background-color: orange;}
+.cat2{background-color: palevioletred;}
+.cat3{background-color: blue;}
+.cat1, .cat2, .cat3{color: white;padding: 0px 30px;border-radius: 20px;margin: 20px 0px;} 
+
+.card{border: none;background-color: white;box-shadow: 2px 0px 10px -4px black;}
+.card-footer{border: none;background-color:white;}
+
+#submit{ height: 300px;}
+
+
+.last h5{color: #948484;}
+.form-control{box-shadow: 0px 0px 5px 1px black;}
+footer{text-align: center;}
